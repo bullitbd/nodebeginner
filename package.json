@@ -1,0 +1,24 @@
+{
+  "name": "nodebeginner",
+  "version": "0.1.0",
+  "description": "node beginner book code fix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bullitbd/nodebeginner.git"
+  },
+  "author": "Bob Day (edits)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bullitbd/nodebeginner/issues"
+  },
+  "homepage": "https://github.com/bullitbd/nodebeginner",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "querystring": "^0.2.0"
+  }
+}
